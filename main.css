@@ -2,3 +2,8 @@
     border: 2px black solid;
     height: 800px;
 }
+
+#fence {
+    width: 80%;
+    height: 80%;
+}
